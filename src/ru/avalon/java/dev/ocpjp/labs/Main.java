@@ -9,7 +9,7 @@ public class Main {
 
     public static void main(String[] args) throws IOException {
         final Collection<Commodity> commodities = Commodity.random(100);
-
+      
         /*
          * TODO(Студент): С использованием Java Stream API выполнить задачи из списка:
          * 1. Выполнить поиск самого дорого товара
